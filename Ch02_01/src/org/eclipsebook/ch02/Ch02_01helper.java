@@ -5,6 +5,6 @@ public class Ch02_01helper {
 		System.out.println("No worries.");
 		System.out.println("Changes made to reflect in Github online");
 
-		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 }
